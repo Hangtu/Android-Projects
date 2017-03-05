@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="mx.edu.ittepic.miniproyecto"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="17" />
+
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainMenu"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".PrimerPantalla"
+            android:label="@string/title_activity_primer_pantalla" >
+        </activity>
+        <activity
+            android:name=".TercerPantalla"
+            android:label="@string/title_activity_tercer__pantalla" >
+        </activity>
+        <activity
+            android:name=".TercerPantalla2"
+            android:label="@string/title_activity_tercer_pantalla2" >
+        </activity>
+        <activity
+            android:name=".Parametros"
+            android:label="@string/title_activity_parametros" >
+        </activity>
+        <activity
+            android:name=".SegundaPantalla"
+            android:label="@string/title_activity_segunda_pantalla" >
+        </activity>
+        <activity
+            android:name=".AcercaDe"
+            android:label="@string/title_activity_acerca_de" >
+        </activity>
+    </application>
+
+</manifest>

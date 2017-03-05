@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.listatareas.MainActivity" >
+
+    <item
+     android:id="@+id/agregar" android:orderInCategory="1" android:title="agregar"/>
+    <item android:id="@+id/acerca" android:orderInCategory="3" android:title="acerca de.."></item>
+    <item android:id="@+id/salir" android:orderInCategory="4" android:title="salir"></item>
+    
+</menu>

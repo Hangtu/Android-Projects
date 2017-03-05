@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 7 elements from project &apos;App2_GridLayout&apos;&#x0D;&#x0A;- Original project: &apos;App2_GridLayout&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Balon.jpg&#x0D;&#x0A;     Barcelona.png&#x0D;&#x0A;     carita.png&#x0D;&#x0A;     Fear Logo.png&#x0D;&#x0A;     Mozilla.png&#x0D;&#x0A;     Neuona.png&#x0D;&#x0A;     Otro.jpg" description="Delete elements" element1="res/drawable-ldpi/Balon.jpg" element2="res/drawable-ldpi/Mozilla.png" element3="res/drawable-ldpi/Neuona.png" element4="res/drawable-ldpi/Barcelona.png" element5="res/drawable-ldpi/carita.png" element6="res/drawable-ldpi/Otro.jpg" element7="res/drawable-ldpi/Fear Logo.png" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="7" stamp="1424997352314" subPackages="false" version="1.0"/>
+</session>

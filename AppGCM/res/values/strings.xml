@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Eco Tec</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="registrar">Registrar!</string>
+    <string name="desregistrar">Desregistrar!</string>
+    <string name="eslogan">Un Granito De Arena</string>
+    <string name="eslogan2">Un Paso Al Futuro</string>
+
+</resources>

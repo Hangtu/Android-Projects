@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MiniProyecto</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_primer_pantalla">PrimerPantalla</string>
+    <string name="boton1">Calcular</string>
+    <string name="titulo_porcentajes">Calculadora De Porcentajes</string>
+    <string name="title_activity_tercer__pantalla">Tercer_Pantalla</string>
+    <string name="title_activity_tercer_pantalla2">TercerPantalla2</string>
+    <string name="title_activity_parametros">Parametros</string>
+    <string name="title_activity_segunda_pantalla">SegundaPantalla</string>
+    <string name="title_activity_acerca_de">AcercaDe</string>
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DAMD_U2_Ejercicio5</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="carreras">
+        <item >Tecnologias</item>
+        <item >Sistemas</item>
+        <item >Industrial</item>
+        <item >Arquitectura</item>
+        <item >Electronica</item>
+        <item >Mecatronica</item>
+        <item >Quimica</item>
+    </string-array>
+
+</resources>

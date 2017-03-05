@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MiniProyecto2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_dinamico1">Dinamico1</string>
+    <string name="title_activity_dinamico2">Dinamico2</string>
+    <string name="title_activity_libre">Libre</string>
+    <string name="title_activity_credito">Credito</string>
+    <string name="title_activity_cinco_datos">CincoDatos</string>
+
+</resources>

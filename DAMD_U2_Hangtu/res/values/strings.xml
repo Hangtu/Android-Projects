@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DAMD_U2_Hangtu</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="elementos">
+        <item>Guardar</item>
+        <item>Abrir</item>
+        <item>Salir</item>
+    </string-array>
+
+    <string name="title_activity_guardar">Guardar</string>
+    <string name="title_activity_abrir">Abrir</string>
+
+</resources>

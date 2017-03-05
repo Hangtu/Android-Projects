@@ -1,0 +1,20 @@
+package com.example.android_http;
+
+import org.apache.http.HttpResponse;
+import org.apache.http.client.HttpClient;
+import org.apache.http.client.methods.HttpPost;
+import org.apache.http.impl.client.DefaultHttpClient;
+import org.apache.http.impl.conn.DefaultClientConnection;
+
+public class httpHandler {
+	
+	
+	public String post(String url){
+		 HttpClient cliente=new DefaultHttpClient();
+		 HttpPost post=new HttpPost(url); //direccion
+		 HttpResponse resp= cliente.execute(post);//respuesta del servidor
+		
+		return  ;
+	}
+
+}
